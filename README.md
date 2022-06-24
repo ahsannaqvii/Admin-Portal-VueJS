@@ -1,11 +1,8 @@
 # Admin Portal-VueJS and Vuetify.
-
-## Project setup
+The project is designed to understand the very basics of VueJS and designed using Vuetify.Concepts of routers and attribute binding are implemented.
+## Project setup and Compilation
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
@@ -15,10 +12,5 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###Project Image
+![SS-1](https://user-images.githubusercontent.com/29493186/175530472-bb816361-d4f3-488a-b5eb-900832e53326.png)
