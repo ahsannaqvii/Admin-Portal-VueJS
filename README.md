@@ -1,4 +1,4 @@
-# admin-portal1
+# Admin Portal-VueJS and Vuetify.
 
 ## Project setup
 ```
